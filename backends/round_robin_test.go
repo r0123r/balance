@@ -1,7 +1,7 @@
 package backends_test
 
 import (
-    BA "github.com/darkhelmet/balance/backends"
+    BA "github.com/r0123r/balance/backends"
     . "launchpad.net/gocheck"
     "testing"
 )
